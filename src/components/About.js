@@ -14,9 +14,9 @@ const About = () => {
         </div>
         <p className="lead mb-5">
           I am experienced electrical engineer with a concentration in power and
-          renewable energy engineering. My software development experience
-          includes but is not limited to:
-          <br />· Robotics and automation development in Python and JavaScript,
+          renewable energy engineering. I have robust software development experience
+          including:
+          <br />· Robotics and automation development in Python and JavaScript
           <br />· FullStack web-app development,with the MERN technology stack
           being the core focus.
         </p>
