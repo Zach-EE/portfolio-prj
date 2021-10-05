@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
+import Skills from "./components/Skills";
 import "./App.css";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <About />
         <Experience />
         <Education />
+        <Skills />
       </div>
     </body>
   );
