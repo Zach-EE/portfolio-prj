@@ -16,8 +16,8 @@ const About = () => {
           I am experienced electrical engineer with a concentration in power and
           renewable energy engineering. I have robust software development experience
           including:
-          <br />· Robotics and automation development in Python and JavaScript
-          <br />· FullStack web-app development,with the MERN technology stack
+          <br />·  Robotics and automation development in Python and JavaScript
+          <br />·  FullStack web-app development,with the MERN technology stack
           being the core focus.
         </p>
         <div className="social-icons">
@@ -30,12 +30,12 @@ const About = () => {
           <a className="social-icon" href="https://github.com/Zach-EE/">
             <i className="fab fa-github"></i>
           </a>
-          <a className="social-icon" href="#!">
+          {/* <a className="social-icon" href="#!">
             <i className="fab fa-twitter"></i>
           </a>
           <a className="social-icon" href="#!">
             <i className="fab fa-facebook-f"></i>
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
