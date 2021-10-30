@@ -1,13 +1,14 @@
-import "bootstrap/dist/css/bootstrap.min.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Navbar from "./components/Navbar";
-import About from "./components/About";
-import Experience from "./components/Experience";
-import Education from "./components/Education";
-import Skills from "./components/Skills";
-import Interests from "./components/Interests";
-import "./App.css";
-import Awards from "./components/Awards";
+import Navbar from './components/Navbar';
+import About from './components/About';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Skills from './components/Skills';
+import Interests from './components/Interests';
+import Awards from './components/Awards';
+import Portfolio from './components/Portfolio';
+import './App.css';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Experience />
         <Education />
         <Skills />
+        <Portfolio />
         <Interests />
         <Awards />
       </div>
